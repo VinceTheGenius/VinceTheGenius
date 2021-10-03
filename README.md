@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hi! I'm Vincent 👋
+  Hi! I'm Vincent 🤟
 </h1>
 
 <img src="https://vincentpruvost.vercel.app/perfil.png" widht="100" height="100">
