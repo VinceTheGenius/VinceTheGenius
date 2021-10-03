@@ -3,7 +3,7 @@
   Hi! I'm Vincent 👋
 </h1>
 
-<img src="https://vincentpruvost.vercel.app/perfil.png">
+<img src="https://vincentpruvost.vercel.app/perfil.png" widht="100" height="100">
 
 
 - 🔭 I’m currently working on my <a href="https://vincentpruvost.now.sh" target="_blank" align='center'>website</a>
