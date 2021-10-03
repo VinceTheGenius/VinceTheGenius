@@ -3,6 +3,8 @@
   Hi! I'm Vincent 👋
 </h1>
 
+<img src="https://vincentpruvost.vercel.app/perfil.png">
+
 
 - 🔭 I’m currently working on my <a href="https://vincentpruvost.now.sh" target="_blank" align='center'>website</a>
 - 🌱 I’m currently learning JavaScript
