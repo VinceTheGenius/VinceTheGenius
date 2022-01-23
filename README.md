@@ -11,6 +11,6 @@
 
 
 #### Contact me
-[![twitter : @VinceTheGenius](https://img.shields.io/badge/-%40M4xi1m3-000000?style=for-the-badge&logo=twitter&logoColor=cyan)][twitter]
+[![twitter : @VinceTheGenius](https://img.shields.io/badge/-%40VinceTheGenius-000000?style=for-the-badge&logo=twitter&logoColor=cyan)][twitter]
 
 [twitter]: https://twitter.com/VinceTheGenius
