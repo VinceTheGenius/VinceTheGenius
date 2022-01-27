@@ -1,3 +1,5 @@
+<h1 align="center">Hi I'm Vince ✌</h1>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinceTheGenius&hide_border=true&count_private=true&show_icons=true&theme=dark)
 
 #### Languages and Tools:
