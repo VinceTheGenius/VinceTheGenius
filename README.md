@@ -1,4 +1,4 @@
-![vincethegenius](https://media.discordapp.net/attachments/923542200950870077/936307506165215252/imageonline-co-roundcorner.png?width=1791&height=1266)
+![vincethegenius](https://media.discordapp.net/attachments/923542200950870077/936307781345087548/imageonline-co-roundcorner_1.png?width=1000&height=522)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinceTheGenius&hide_border=true&count_private=true&show_icons=true&theme=dark)
 
