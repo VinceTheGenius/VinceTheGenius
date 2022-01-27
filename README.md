@@ -2,7 +2,7 @@
 
 #### Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
-![Html](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=Html&logoColor=orange)
+![Html](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=HTML&logoColor=orange)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=red)
 ![Python3](https://img.shields.io/badge/-Py3-000000?style=for-the-badge&logo=Python&logoColor=cyan)
 ![JS](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
