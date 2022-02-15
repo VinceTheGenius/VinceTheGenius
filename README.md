@@ -17,11 +17,7 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/Kayn017/palila-bot/issues/19) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-2. 🗣 Commented on [#19](https://github.com/Kayn017/palila-bot/issues/19) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-3. ❗️ Opened issue [#19](https://github.com/Kayn017/palila-bot/issues/19) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-4. 💪 Opened PR [#18](https://github.com/Kayn017/palila-bot/pull/18) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-5. 💪 Opened PR [#17](https://github.com/Kayn017/palila-bot/pull/17) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
+No recent activity available 🤓
 <!--END_SECTION:activity-->
 
 </details>
