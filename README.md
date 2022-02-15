@@ -7,8 +7,8 @@
 ![Html5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=red)
 ![Css3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
 ![Python3](https://img.shields.io/badge/-Py3-000000?style=for-the-badge&logo=Python&logoColor=cyan)
-![JS](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow)*
-![JS](https://img.shields.io/badge/-CSHARP-000000?style=for-the-badge&logo=CSharp&logoColor=yellow)*
+![JS](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![JS](https://img.shields.io/badge/-CSHARP-000000?style=for-the-badge&logo=CSharp&logoColor=green)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)<br/>
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinceTheGenius&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
 
