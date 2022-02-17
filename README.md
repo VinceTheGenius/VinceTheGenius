@@ -12,6 +12,7 @@
 
 #### What I'm interested in:
 ![CSharp](https://img.shields.io/badge/-CSHARP-000000?style=for-the-badge&logo=CSharp&logoColor=green)
+![Vue](  https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff)
 
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinceTheGenius&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
 
