@@ -28,7 +28,7 @@ No recent activity available 🤓
 </details>
 
 ## 🌐Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/723977420364840970?idleMessage=Im probably sleping)](https://discord.com/users/723977420364840970)
+[![Discord Presence](https://lanyard.cnrad.dev/api/723977420364840970?idleMessage=Im%20probably%20sleping)](https://discord.com/users/723977420364840970)
 
 #### Contact me
 [![twitter : @VinceTheGenius](https://img.shields.io/badge/-%40VinceTheGenius-000000?style=for-the-badge&logo=twitter&logoColor=cyan)][twitter]
