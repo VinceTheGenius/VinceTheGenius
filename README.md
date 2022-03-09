@@ -23,7 +23,7 @@
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
 <ul>
-<li>- France IOI Python's website 🤓]</li>
+<li>- France IOI Python's website 🤓</li>
 <li>- Robux Generator </li>
 <li>- Numworks</li>
 <li>- Command Launcher (and Command Launcher Vue !)</li>
