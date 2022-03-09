@@ -22,7 +22,7 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-- France IOI Python's website 🤓
+- ![France IOI Python's website 🤓](https://france-ioi-python.now.sh)
 - Robux Generator 
 - Numworks
 - Command Launcher (and Command Launcher Vue !)
