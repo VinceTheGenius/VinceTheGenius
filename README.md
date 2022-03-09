@@ -22,7 +22,10 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-No recent activity available 🤓
+- France IOI Python's website 🤓
+- Robux Generator 
+- Numworks
+- Command Launcher (and Command Launcher Vue !)
 <!--END_SECTION:activity-->
 
 </details>
