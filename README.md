@@ -22,10 +22,12 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-- ![France IOI Python's website 🤓](https://france-ioi-python.now.sh)
-- Robux Generator 
-- Numworks
-- Command Launcher (and Command Launcher Vue !)
+<ul>
+<li>- France IOI Python's website 🤓]</li>
+<li>- Robux Generator </li>
+<li>- Numworks</li>
+<li>- Command Launcher (and Command Launcher Vue !)</li>
+  </ul>
 <!--END_SECTION:activity-->
 
 </details>
