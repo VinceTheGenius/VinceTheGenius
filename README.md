@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/763433267911065600/952321891048243231/presentationcard2.png" alt="VinceTheGenius" width="500" align="center"/>
+<img align="center" src="https://media.discordapp.net/attachments/763433267911065600/952321891048243231/presentationcard2.png" alt="VinceTheGenius" width="600"/>
 
 <h1 align="center">Hi I'm Vince ✌</h1>
 <br>
