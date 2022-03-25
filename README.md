@@ -45,4 +45,4 @@
 [twitter]: https://twitter.com/VinceTheGenius
 
 ### Number of visit here (っ˘ω˘ς )
-<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LACOSTAR91&repo=vincethegenius&countColorcountColor&countColor=%FFFFFF"/> 
+<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vincethegenius&repo=vincethegenius&countColorcountColor&countColor=%FFFFFF"/> 
