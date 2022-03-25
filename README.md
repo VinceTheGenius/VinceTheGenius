@@ -43,3 +43,6 @@
 [![twitter : @VinceTheGenius](https://img.shields.io/badge/-%40VinceTheGenius-000000?style=for-the-badge&logo=twitter&logoColor=cyan)][twitter]
 
 [twitter]: https://twitter.com/VinceTheGenius
+
+### Number of visit here (っ˘ω˘ς )
+<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LACOSTAR91&repo=vincethegenius&countColorcountColor&countColor=%FFFFFF"/> 
