@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://media.discordapp.net/attachments/763433267911065600/956987774207135774/og-image.png?width=2112&height=1188" alt="VinceTheGenius" width="400"/>
+<img align="center" src="https://media.discordapp.net/attachments/763433267911065600/956987774207135774/og-image.png?width=2112&height=1188" alt="VinceTheGenius" width="600"/>
 </p>
   
 <h1 align="center">Hi I'm Vince ✌</h1>
