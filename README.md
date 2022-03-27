@@ -27,7 +27,7 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Numworks shop](https://github-readme-stats.vercel.app/api/pin/?username=vincethegenius&repo=numworks)](https://github.com/vincethegenius/numworks)
 <!--END_SECTION:activity-->
 
 </details>
