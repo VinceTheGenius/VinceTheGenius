@@ -27,12 +27,7 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-<ul>
-<li>- France IOI Python's website 🤓</li>
-<li>- Robux Generator </li>
-<li>- Numworks</li>
-<li>- Command Launcher (and Command Launcher Vue !)</li>
-  </ul>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>
