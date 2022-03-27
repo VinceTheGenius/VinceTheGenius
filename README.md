@@ -27,7 +27,8 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-[![Numworks shop](https://github-readme-stats.vercel.app/api/pin/?username=vincethegenius&repo=numworks)](https://github.com/vincethegenius/numworks)
+[![Numworks shop](https://github-readme-stats.vercel.app/api/pin/?username=vincethegenius&repo=numworks&theme=dark)](https://github.com/vincethegenius/numworks)
+[![Robux generator](https://github-readme-stats.vercel.app/api/pin/?username=vincethegenius&repo=giverobuxto.me&theme=dark)](https://github.com/vincethegenius/giverobuxto.me)
 <!--END_SECTION:activity-->
 
 </details>
