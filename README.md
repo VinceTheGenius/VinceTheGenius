@@ -1,9 +1,5 @@
-<p align="center">
-<img align="center" src="https://media.discordapp.net/attachments/763433267911065600/956987774207135774/og-image.png?width=2112&height=1188" alt="VinceTheGenius" width="550"/>
-</p>
-  
-<h1 align="center">Hi I'm Vince ✌</h1> <img src="./cat.gif" width="40" height="40" />
-<h2 align="center"><a href="https://vince.cafe">My website</a></h2>
+<h1>Hi I'm Vince ✌</h1> <img src="./cat.gif" width="40" height="40" />
+<h2><a href="https://vince.cafe">My website</a></h2>
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinceTheGenius&hide_border=true&count_private=true&show_icons=true&theme=dark)
